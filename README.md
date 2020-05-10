@@ -1,1 +1,1 @@
-# datascience
+# datascience-notes
