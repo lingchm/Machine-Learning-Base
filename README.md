@@ -28,9 +28,9 @@ The knowledge base is continuously expanding. Hope you find it useful.
 <summary>Deep Learning</summary>
 
 ### Coursera:
-- Advanced computer vision in Tensorflow: `deep-leaning-tensorflow/coursera-advanced-computer-vision`
-- Improving deep neural networks: `deep-leaning-tensorflow/coursera-improving-deep-neural-networks`
-
+- Advanced Computer Vision in Tensorflow: `deep-leaning-tensorflow/coursera-advanced-computer-vision`
+- Improving Deep Neural Networks: `deep-leaning-tensorflow/coursera-improving-deep-neural-networks`
+- AI for Medical Diagnosis 
 </details>
  
   
